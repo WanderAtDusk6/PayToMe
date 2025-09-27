@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "typescript.enablePromptUseWorkspaceTsc": false,
+    "vetur.validation.script": false,
+    "vue.inlayHints.enabled": true,
+    "nuxt.developerTools": true
+}
